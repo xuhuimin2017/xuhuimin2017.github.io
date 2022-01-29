@@ -35,7 +35,7 @@
     "uniqCompNum": 26,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
-    "publishType": "github",
+    "publishType": "local",
     "gitHubName": "xuhuimin2017",
     "gitHubPath": "",
     "publishPath": "file:///Users/xuhuimin/xuhuimin2017.github.io"
